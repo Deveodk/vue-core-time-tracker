@@ -1,6 +1,6 @@
 {
   "name": "@deveodk/vue-core-time-tracker",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Time tracking plugin for deveo core",
   "author": "Jason Kelly <jk@deveo.dk>",
   "main": "dist/@deveodk/vue-core-time-tracker.common.js",
